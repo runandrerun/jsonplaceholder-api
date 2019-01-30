@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+#users-container {
+  margin-top: 30px;
+  /* width: 900px; */
+}
+
+.real-name {
+  color: #428BCA;
+}
+
+.username {
+  color: #5CB85C;
+}
+
+.user-email {
+  color: #D9534F;
+}
+
+.post-title {
+  color: #5BC0DE;
+}
+
+.user-card {
+  background-color: #F9F9F9;
+  border-radius: 25px;
+  height: 300px;
+  width: 300px;
+  margin: 10px;
+  padding: 15px;
+  box-shadow: 1px 1px 2px 2px #ccc;
+}
+
+.post-content {
+  height: 280px;
+  overflow-x: scroll;
+}
